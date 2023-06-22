@@ -1,6 +1,6 @@
 # Projet visualisation Groupe T
 
-Groupe composé de : **Anh Phong NGUYEN**, **Arnaud GUETCHUENG**, **Donald ENDEL**, **Thomas LOISEAU**, **Mohamed SANAD**, **Arnaud GUETCHUENG**
+Groupe composé de : **Anh Phong NGUYEN**, **Arnaud GUETCHUENG**, **Donald ENDEL**, **Thomas LOISEAU**, **Mohamed SANAD**
 
 Pour ouvrir le projet correspondant à la visualisation, il suffit de décompresser l’archive et d’exécuter les dossiers tableaux `.twb`
 
