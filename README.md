@@ -6,8 +6,8 @@ Pour ouvrir le projet correspondant à la visualisation, il suffit de décompres
 
 ## Visualisation 1
 
-![Untitled](Projet%20visualisation%20Groupe%20T%2056485d56744c49f48973812e507eafc9/Untitled.png)
+![Untitled](img/img1.png)
 
 ## Visualisation 2
 
-![visualisation2.jpeg](Projet%20visualisation%20Groupe%20T%2056485d56744c49f48973812e507eafc9/visualisation2.jpeg)
+![visualisation2.jpeg](img/img2.jpeg)
